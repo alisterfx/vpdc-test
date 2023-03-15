@@ -1,0 +1,15 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - psutil
+  - leafmap
+  - leafmap
+  - matplotlib
+  - geopandas
+  - pandas
+  - fiona
+  - mapclassify
+  - rasterio
